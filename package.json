@@ -1,0 +1,35 @@
+{
+  
+  "scripts": {
+  
+    
+  "server_bundle_start": "webpack --config webpack.server.config.js",
+  
+    
+  "start": "react-scripts start"
+  
+  },
+  
+  "devDependencies": {
+  
+    
+  "webpack": "^5.95.0",
+  
+    
+  "webpack-cli": "^5.1.4"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "cors": "^2.8.5",
+  
+    
+  "openai": "^4.52.7",
+  
+    
+  "react-router-dom": "^5.3.4"
+  
+  }
+}
