@@ -1,0 +1,8 @@
+Flask
+requests
+google-cloud-storage
+flask-cors
+googlesearch-python
+google
+webdriver-manager
+selenium
